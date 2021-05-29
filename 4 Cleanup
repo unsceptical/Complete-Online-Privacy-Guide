@@ -1,0 +1,47 @@
+
+
+✨ instructions to clean up after a mistake
+
+
+step 1; glitch the account with which you made a mistake
+
+1- unlink the used account from your other accounts, 
+2- delete all chats from both sides, delete all posts and leave all groups
+3- change account profile picture to some random shit, 
+4- change account username to some random shit, 
+5- change account full name to some random shit, 
+6- change account email address to some shit temporary email, 
+7- delete the account.
+8- wipe browser cookies
+
+step 2; thoroughly purge the applications that used that account 
+
+🪟 for windows: 
+1- uninstall applications that used the account (preferably using Revo Uninstaller)
+2- remove the applications' registries at:
+Computer\HKEY_CURRENT_USER\SOFTWARE
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE
+Computer\HKEY_USERS\.DEFAULT\Software
+
+3- delete the applications' remains in appdata folders at:
+C:\Users\?\AppData\Local
+C:\Users\?\AppData\LocalLow
+C:\Users\?\AppData\Roaming
+
+4- delete the applications' remains in program files folder at:
+C:\Program Files
+
+5- wipe entire temp folder at:
+C:\Users\?\AppData\Local\Temp
+
+🐧 for linux:
+
+1- use one of these commands to uninstall applications that used the account
+apt-get purge packagename
+aptitude purge packagename
+dpkg --purge --force-all packagename
+
+step 3; randomize HWIDs, MAC and operating system 
+
+step 4; if possible, go through the second section of the guide.
+
