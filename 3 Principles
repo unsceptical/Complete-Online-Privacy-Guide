@@ -1,0 +1,198 @@
+
+✨ principles of online privacy
+
+⛭ to use browser in a "separate instance": (do not use private or incognito mode)
+🪟🐧 for windows and linux:
+- close browser (all processes)
+- change VPN server
+- open browser in a portable amnesic linux distribution
+Or
+🪟🐧 for windows and linux:
+- open TOR browser with a new circuit
+Or
+🪟 for windows:
+- clear all browser data 
+- close browser (all processes)
+- change VPN server
+- open browser in a sandbox
+Or
+🐧 for qubesOS linux:
+- create a new browser qube with new TOR circuit
+
+⛭ to use any other application in a "separate instance": 
+🪟🐧 for windows and linux:
+- close browser (all processes)
+- change VPN server
+- open application in a portable amnesic linux distribution
+Or
+🐧 for linux:
+- close browser (all processes)
+- change VPN server
+- run these commands in order: 
+apt-get purge packagename
+apt-get install packagename
+Or
+🪟 for windows:
+- clear all browser data 
+- close browser (all processes)
+- change VPN server
+- open browser in a sandbox
+OR
+🐧 for qubesOS linux:
+- create a TOR-enabled application qube
+
+⛭ to use the whole operating system in a "separate instance": 
+- virtualize or boot into a portable amnesic linux distribution
+
+--
+
+👁️ use TOR browser as your initial browser 
+
+👁️ apply these to only one computer and never connect any other device to the router it uses; turn router wifi off
+
+👁️ use open source chromium-based browsers (e.g. UnGoogled Chromium, Brave)
+- ungoogled chromium browser:
+https://ungoogled-software.github.io/ungoogled-chromium-binaries/
+- brave browser:
+https://brave.com/
+
+👁️ disable third-party cookies from browser settings (preferably all cookies)
+
+👁️ change router, operating system and browser's preferred DNS server to something safer (e.g. OpenDNS, Cloudflare, Quad9, … )
+
+👁️ purchase a well-known VPN service (e.g. ProtonVPN plus) on a separate instance and not with your credit card; only connect and use it through an open-source VPN manager (e.g. OpenVPN)
+- connecting to protonvpn servers through openvpn:
+https://protonvpn.com/support/openvpn-windows-setup/
+
+👁️ do not login to browser account itself
+
+👁️ create any and every account on a separate instance
+
+👁️ create a unique email for every account on a separate instance (e.g. one for steam, one for discord, …)
+
+👁️ never log into an account when a trail of activity exists; 
+only log into accounts on a separate instance.
+
+👁️ compartmentalize activities to as many separate instances as possible
+
+👁️ perform general activity or any activity that doesn’t require a logged-in account on a separate instance with no logged-in account
+👁️ perform interactions between two accounts on a separate instance with no activity trail
+
+
+👁️ do not use browser’s password storage & autofill features
+
+👁️ apply the following browser settings or their rough equivalent, if present:
+- disable third party cookies
+- disable all “protection”
+- disable all suggestions 
+- disable all personalization
+- disable “continue to run in background”
+- enable “send do-not-track requests”  
+- disable “allow websites to check if you have saved payment methods”
+- disable “send diagnostic data” anything
+- disable “help improve” anything
+- disable “Allow recently closed sites to finish sending and receiving data”
+- delete all preset search engines and create a duckduckgo manually (https://duckduckgo.com/?q=%s)
+
+👁️ avoid linking or connecting accounts together on any application or website
+
+👁️ never connect phone to computer directly via USB, whether it’s to transfer files or charge
+
+👁️ never use cloud folder applications (e.g. MEGA, dropbox, …)
+
+👁️ when creating accounts, avoid providing real name, real location, real family ties or other personal information;
+make sure the accounts’ name, username, Bio, birth date & … cannot be correlated to pinpoint you. fill in personal data with random things. avoid sending friend requests. 
+👁️ do not add your accounts or emails to any device other than the chosen computer;
+you must absolutely avoid associating your safe computer with any other device you own
+
+👁️ never “verify” on any other device; use browser addon instead of phone authenticator or even virtualize android for that purpose.
+In case verification is needed, either copy the link to the primer session or verify in a different instance.
+
+⛭ to create a password:
+
+1- select a word with at least eight letters, which you’d always remember; this word will be used for all your passwords
+e.g. password, combination, authentication, identification or distinction
+
+2- capitalize at least one letter; the chosen letters will be capitalized for all your passwords
+e.g. pasSword, CombiNation, authENtication, identifiCATion or DisTincTion
+
+3- add at least one special character in-between letters; the chosen special character and its place will be the same for all your passwords
+e.g. pas-Sword, Combi~Nation~, auth^EN^tication, i_denti_fi_CATi_on or .DisTincTion.
+
+4- add at least two number digits anywhere; the chosen digits and their place will remain the same for all your passwords
+e.g. pas66-Sword, Combi6~Na8tion~, 00auth^7EN^tication, i_den98ti_fi_CA8Ti_on or .Dis6Tinc6Tion6.
+
+5- add at least 1 more character of any kind for core accounts; (e.g. google, microsoft, steam, …)
+
+6- add the target application or website’s initials somewhere in the password;
+e.g. @ pornhub: PHpas66-Sword, Combi6~PhNa8tion~, 00auth^7EN^pHtication, phi_den98ti_fi_CA8Ti_on or .pHDis6Tinc6Tion6.
+e.g. @ reddit: Rpas66-Sword, Combi6~RNa8tion~, 00auth^7EN^rtication, ri_den98ti_fi_CA8Ti_on or .rDis6Tinc6Tion6.
+
+
+👁️ never digitally or even physically save your passwords; use your brain
+
+👁️ never trust browser-based applications (e.g. discord, coinomi)
+
+👁️ if an application can be ran through browser, run it through browser on a separate instance.
+avoid installing applications as much as possible. especially on windows.
+
+👁️ use burner, virtual or temporary phone numbers to get past the initial verification of account creations 
+
+👁️ on core accounts (e.g. Google), manually disable all data collection and opt out of all personalization 
+
+👁️ for online activities that legally require you to represent your true identity, (e.g. any online exam, any bank transaction, any online purchase, any legal paperwork) use another device on a different internet service provider without any precautions. (e.g. phone with simcard internet)
+
+⛭ to use cryptocurrencies:
+1-use non-custodial open-source wallets or a non-custodial open-source multiwallet
+2-create two wallets for each cryptocurrency 
+3-Differentiate the two sets through different names; 
+Name the second set differently from the first set
+E.g. BNBX, BNBY, LTCX, LTCY, NANOX, NANOY
+4-Crypto from the first set must never be sent to the second set; 
+Crypto from the second set must never be sent to the first set
+5-When you buy crypto through any method, have it sent to one of your first set wallets
+6-Exchange the purchased crypto from the first set for another crypto and have it sent to a second set wallet
+If your wallet does not feature an exchange service, use binance, also with two sets of wallet
+in other words, compartmentalize and launder your crypto
+When spending crypto to purchase things with your real identity, use wallets of the first set,
+when spending crypto to purchase things anonymously, use wallets of the second set.
+
+👁️ install and always use these addons on non-TOR browsers: (yes, all of them)
+- trace addon: 
+https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb
+
+- cydec addon: (disable in case of website malfunction)
+https://chrome.google.com/webstore/detail/cydec-platform-anti-finge/becfjfjckdhngmmpkhakoknnkgpgfelk
+
+- fingerprint spoofing addon: 
+https://chrome.google.com/webstore/detail/fingerprint-spoofing/ljdekjlhpjggcjblfgpijbkmpihjfkni
+
+- google tracing opt-out addon 1: 
+https://chrome.google.com/webstore/detail/iba-opt-out-by-google/gbiekjoijknlhijdjbaadobpkdhmoebb
+
+- google tracing opt-out addon 2: 
+https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh
+
+- local cdn addon:
+https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd
+
+- ublock origin addon:
+https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
+
+⛭ to create and use a telegram account
+1-buy a stranger’s simcard and ask for their phone momentarily.
+don’t get the simcard or the stranger anywhere near your house.
+don’t insert the simcard in your phone.
+2-while simcard is in the stranger’s phone, open telegram on your phone and enter its number to sign up.
+3-read the sign up code notification on the stranger’s phone, type it for your telegram.
+4-add two step verification and set up privacy settings.
+5-remove simcard from stranger’s phone and break it.
+Or
+1-sign up with a burner simcard that is not purchased under your name (not your credit card)
+2-add two step verification and set up privacy settings
+3-break simcard
+Or
+1- sign up with a temporary virtual number that is acquired through a separate instance of a TOR-enabled browser
+2- add two step verification and set up privacy settings
+3- abandon the number
