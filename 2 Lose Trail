@@ -1,0 +1,70 @@
+✨ instructions to lose trail and start
+
+- abandon all of your accounts
+
+🐧🪟 for linux and windows:
+- prepare a fresh operating system installer
+If you’re a windows user, you may want to try a linux distribution
+if you’re already a linux user, you may want to switch to qubes or whoinx… or at the very least, kali, darkarch or kodachi
+These guide covers both windows and linux, but It is HIGHLY recommended to use Qubes OS
+
+- arrange for changing your internet service provider to something faster and safer. Preferably not owned by your state. Sign up not as yourself but as one of your relatives. ask or even pay them to follow the procedure and make sure they do not mention you or that it is meant for you. 
+
+- disconnect your main computer from the old internet service provider and do not connect your computer or phone to the new or old internet service provider until after finishing the remaining steps. for internet, Preferably leave to another estate and just use your phone only there while this happens.
+
+- acquire a disposable simcard, not bought by you, not associated with your name and not placed in any mobile device you’ve ever used; Do not add credit to it using your own credit card or any credit account. do not even buy a charge giftcard with your own credit card.
+
+- set up that sim card’s internet and share it to your main computer through wifi hotspot (not USB).
+
+
+🐧🪟 for linux and windows:
+- close all applications, specifically those running in background  
+
+
+🪟 for windows: 
+- download a HWID changer script
+- randomize as many HWIDs as possible
+
+
+🪟 for windows: 
+- install TMAC and randomize mac address
+https://technitium.com/tmac/
+
+🐧 for linux:
+- run this command to install macchanger
+apt-get install macchanger
+
+- run this command to view the used network interface's name; copy it
+ipconfig
+
+- run this command to turn your network interface off
+ifconfig networkinterfacename down
+
+- run this command to randomize mac address
+macchanger -r networkinterfacename 
+
+- run this command to turn your network interface on
+ifconfig networkinterfacename up
+
+🐧🪟 for linux and windows:
+- run these commands, one by one
+ipconfig /flushdns
+ipconfig /registerdns
+ipconfig /release
+ipconfig /renew
+
+🪟 for windows: 
+- run these commands to reset TCP, one by one
+netsh int ip reset
+netsh winsock reset
+
+🐧 for linux: 
+- run these commands to reset TCP, one by one
+apt install net-tools
+service network-manager restart
+
+🐧🪟 for linux and windows:
+- break the disposable simcard
+- install your operating system after deep formatting all connected drives, offline
+- connect your computer to the new ISP
+
