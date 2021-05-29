@@ -1,0 +1,107 @@
+✨ general information
+
+This guide has four sections. 
+First section contains some poorly compiled general information
+Second section contains instructions to lose trail and start
+Third section contains principles to upkeep your online privacy 
+Fourth section contains instructions to clean up after a mistake
+
+Instructions are not compensated for potential errors.
+Instruction steps are absolute and must be done precisely.
+
+It is very authoritative and requires absolute obedience.
+If you’re uncomfortable with that,  research to find the reasoning behind each instruction.
+
+Do not skip over any instruction.
+Do no bargain with any instruction. 
+Do not simplify any instruction. 
+Any derivation can easily and completely nullify all efforts.
+
+Through this guide you will avoid surveillance by the mega-corporation syndicate (google, twitter, facebook, apple, microsoft & ...), deepstate, national intelligence (FBI, ASIS, KGB, ABIN, CISC & …), international intelligence (CIA, SVR, SIS, Mossad & …), criminal mobs, rings, mafias, non-affiliates and even solo actors.
+
+However it will not protect you against physical screen-logging, key-logging and other physical or malware-type surveillance. (do no install any antimalware)
+
+You can check for physical surveillance using anti-spy detectors, however beware that purchasing these will raise suspicion by itself. 
+
+
+
+Your activity history, decisions, preferences & ... on every website and application is stored on their server, signed with your digital identity, traded & ultimately sent to be aligned & merged with other data on data management platforms to form elaborate profiles (easily personally identifiable), analyzed to generate & add even more complicated data and then stored or traded again.
+This happens regardless of what “party” the user data is collected from or for.
+Essentially, there is no difference between first, second or third party tracking as far as large corporations or major data management platforms are concerned. 
+Disabling third party tracking only stops miscellaneous and minor platforms from tracking you in real time, and does not impact the first or second party tracker’s decision concerning trading or sharing tracked user data with other platforms.
+Your digital identity is confirmed by your digital signatures, more specifically through acquiring a variety or a certain combination of user’s universally unique identifiers, or even by logically concluding to them from the combination of non-unique identifiers.
+
+user identifiers Include but are not limited to: 
+hardware identifiers (profile ID, product ID, computer manufacturer ID, motherboard ID, processor ID, graphics card ID, storage volume ID, storage partition ID, MAC address or network interface card ID, region ID, …), 
+software identifiers (operating system profile ID, operating system license, microsoft windows account, microsoft store account, xbox live account, app registries, browser ID, applications ID, application accounts ID, …), 
+first party cookies (major trackers, signed-in accounts, website preferences, …), third party cookies (minor trackers, …), 
+IP address and ...
+Even if not direct or obvious, they can be easily correlated & aligned to calculate your other signatures and identity.
+
+you digital identify can be found directly by looking up unique hardware (such as storage drive or network adapter) or software (such as account or appdata) identifiers, 
+Or indirectly through various means like asking from those who have already acquired them (such as running applications or logged-in services),
+Or even more indirectly through correlation and alignment of available non-unique identifiers.
+
+User data that services or platforms collect is never only stored on your storage drive and is not limited to "cookies"; cookie fails to define majority of stored data, let alone collected data.
+When you turn off or delete cookies, it ultimately only affects the stored data in the specific format of "cookie" on your personal storage drive.
+
+All or portions of your profile (including loosely defined “relevant information” and your digital signatures), sorted in different categories, are bought from demand-side platforms in mass by any business, only behind an easily circumvented credibility or reliability requirement.
+The received data could range from raw information like user's online activity history, process lists, installed applications, taste in content, location, job, family, shopping history & ... to ready-made information like user's intelligence, finance, typology, interests, life philosophy, politics, personality & …
+This can be used to for example (good examples) make all sorts of statistics, investigate marketing decisions, create personal advertisements, analyze quality of service, detect inadequacies and …
+when you turn off “ad personalization”, you don't prevent your data from being collected, shared, traded, analyzed or used; you only specifically ask to not have ads personalized based on the data.
+The user data package would then just include a request variable against ad personalization, in which case the data is still like normal, but will just not be used to alter advertisement choices.
+Now,
+How does a completely free service with little to no shown advertisement or paid features handle explosive userbase growth and by its extent, intensifying development, storage, processing and upkeep costs, then even advertises on other platforms to attract more users to not only not fail, but flourish?
+The truth is that the trade of user data easily makes up the majority of free services’ income.
+This can hardly be legally worded in any language.
+The language they use is completely intangible and unreliable, and users agree to such privacy policies upon registering. 
+When pushed by law, Tech companies tend to argue that properly elaborating policies is too complicated for the average user, and find reasons as to why advanced vocabulary is too inaccurate to be used to describe their complicated systems. Sometimes simply not disclosing details of their policies.
+For example, the collection of user data can be loosely defined as “ads” because it is often done with the alleged intent of impacting advertisements, or “diagnostics” because it can be done with the alleged intent of improving systems… so on and so forth.
+they may not “sell” your data, but “renting”, “lending”, “sharing”, “showing”, “trading”, “giving”, “give access of”, “sending”, “offering”, “using” or … your data to another party with or without a “contract”.
+it may not be even “your” data or “user” data, as they could remove their own definition of digital signatures from user data to legally disassociate it from the user, while keeping or even intentionally adding signatures that can be used to easily track.
+they may not “track” users themselves, but send user data to places where it is done. For example an entity whose services are used. But ultimately most of them end up at massive data management platforms where data is processed, aligned, compiled, sorted and … 
+so on and so forth.
+you get the gist.
+Governments, Other than receiving information from corporations in mass, also have their own ways to survey which can be generalized into directly or indirectly owning internet service providers, domain name systems and popular national websites & applications.
+
+Example: Discord
+
+Discord is free, has no storage limit for users, has all media processed, compressed & kept forever on their storage, processes billions of messages and interactions, actively develops their platform and even advertises on other platforms to attract more users.
+All while the paid “nitro” feature only covers a dismissably small fraction of the upkeep costs, let alone growth expenses.
+How do they manage this without printing money?
+To solve this mystery, we need to read their privacy policy:
+”Information we collect may include but not be limited to username, email address, and any messages, images, …”
+
+”When you interact with us through the Services, we receive and store certain information such as your activities within the Services, IP address, device IDs, … ”
+
+”We may store such information or such information may be included in databases owned and maintained by affiliates, agents or service providers. 
+The Services may use such information and pool it with other information to track...”
+
+Discord explicitly confirms in its privacy policy that it collects more than just IP Address, Device UUIDs (unspecified) and User's e-mail address as your digital signature.
+
+moving on from the undisclosed access to your interactions and the data you share such as all text messages and media, it explicitly confirms the sharing and trading of user data with affiliates, agents and service providers… even confirming how user profiles are aligned and merged.
+
+”You may give us permission to collect your information in other services. For example, you may connect a social networking service ("SNS") such as Facebook or Twitter to your Discord account. 
+When you do this, it allows us to obtain information from those accounts (for example, your friends or contacts).”
+Their example describes how Discord will acquire an undisclosed amount of information about you from the platforms that you choose to bind your account with, but does not elaborate what “other services” it collects from.
+Discord is also actively logging and profiling the processes you have running to make, which is then sold and shared with many other platforms and companies.
+
+”If you do not wish to receive personalized advertising that is delivered by third parties outside of the Discord Service, you may be able to exercise that choice through opt-out programs”
+Note that opting out does NOT prevent your data from being shared or traded. It simply won’t be used to personalize advertisement. 
+
+”The Company and its subsidiaries and affiliates (the “Related Companies”) may also use your information collected through the Services”
+
+comment is not even needed for this one.
+
+
+"instance" or just “session” refers to a session along with its unique set of user identifiers.
+Any number of sessions that have the same set of unique user identifiers are regarded as one singular session.
+
+
+“separate instance”, “unique instance”, “separate session” or “unique session” refers to a session with a completely different set of user identifiers, compared to past or future sessions.
+ 
+“shill” refers to someone funded by the tech syndicate to steer mob away from freedom and awareness by spreading falsehood, misinformation or convenient halftruths. That is also done through public discouragement, slander and many other tricks to keep cattle in the farm. They also glorify and hype new products without much criticism.
+
+“Glowie” or “Glower”, sometimes accompanied by the n-word, refers to someone out of date and disconnected from the online culture that they pose to be a part of. Just like the physical counterpart with their inability to blend in with native population's habits, traditions, speech patterns and …, they stick out because they are out of touch and unaware of the newest slangs and so on and so forth.
+
+for virtualizing linux or booting portable linux, use portable amnesic linux distributions such as tails, discreete, tens or parrot Security
